@@ -1,59 +1,135 @@
-🚀 SP-001 Foundations
-The starting point of The Solutionist Playbook.
+# 🧠 SP-001 Foundations
 
-Before learning Linux, AWS, Docker or Kubernetes, we must first learn how engineers think, solve problems and understand systems.
+Welcome to the first stage of **The Solutionist Playbook**.
 
-📚 Curriculum
-Lesson 01
-✅ What Is DevOps?
+Most people learn technology by memorising commands.
 
-Learn what DevOps is, why it exists and how organisations use it.
+Solutionists learn how systems work.
 
-Lesson 02
-✅ What Is Cloud Computing?
+This repository teaches the foundations of engineering thinking, troubleshooting and DevOps.
 
-Understand cloud computing from first principles to production use cases.
+Before learning:
 
-Lesson 03
-✅ What Is Linux?
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
 
-Learn why Linux powers most modern infrastructure.
+we must first learn how engineers think.
 
-Lesson 04
-✅ What Is Networking?
+---
 
-Understand how systems communicate.
+# 🎯 Mission
 
-Lesson 05
-✅ How To Think Like An Engineer
+We don't create button-clickers.
 
-Learn the mental models used by engineers and architects.
+We create Solutionists.
 
-Lesson 06
-✅ Root Cause Analysis
+People who can:
 
-Learn how experienced engineers identify the real cause of problems.
+- Understand systems
+- Investigate problems
+- Think critically
+- Identify root causes
+- Deliver solutions
 
-🧠 The Solutionist Framework
-Every lesson follows the same structure:
+even when nobody else knows what to do.
 
-Why Should You Care?
-Foundation Explanation
-Production Reality
-Common Problems
-Troubleshooting
-Engineering Wisdom
-Architecture Perspective
-Key Takeaways
-🎯 End Goal
-Move from:
+---
 
-I know the command.
+# 📚 Curriculum
 
-To:
+## Foundations Of Technology
 
-I understand the system.
+✅ Lesson 01 - What Is DevOps?
 
-And ultimately:
+✅ Lesson 02 - What Is Cloud Computing?
 
-I can solve unfamiliar problems confidently.
+✅ Lesson 03 - What Is Linux?
+
+✅ Lesson 04 - What Is Networking?
+
+---
+
+## Foundations Of Engineering Thinking
+
+✅ Lesson 05 - How To Think Like An Engineer
+
+✅ Lesson 06 - Root Cause Analysis
+
+✅ Lesson 07 - Why Memorisation Creates Weak Engineers
+
+✅ Lesson 08 - Think Like A Detective
+
+---
+
+## Foundations Of Troubleshooting
+
+✅ Lesson 09 - The Layers Of Troubleshooting
+
+✅ Lesson 10 - The Art Of Asking Better Questions
+
+✅ Lesson 11 - Documentation Saves Careers
+
+✅ Lesson 12 - The Solutionist Framework
+
+---
+
+# 🧭 Learning Path
+
+```text
+SP-001 Foundations
+        ↓
+SP-002 Production
+        ↓
+SP-003 Troubleshooting
+        ↓
+SP-004 Architecture
+        ↓
+SP-005 Solutionist Mastery
+```
+
+---
+
+# 🚀 What Comes Next?
+
+After completing Foundations, continue to:
+
+## SP-002 Production
+
+Learn:
+
+- Servers
+- Linux Administration
+- Docker
+- Container Networking
+- Docker Compose
+- CI/CD
+- AWS Production Concepts
+
+---
+
+# 🧠 The Solutionist Philosophy
+
+Observe.
+
+Investigate.
+
+Hypothesise.
+
+Test.
+
+Solve.
+
+Document.
+
+Teach.
+
+---
+
+> A technician follows instructions.
+>
+> An engineer solves problems.
+>
+> A Solutionist creates solutions and teaches others to do the same.
