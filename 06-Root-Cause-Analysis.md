@@ -1,4 +1,43 @@
-# Root Cause Analysis
+# 🔍 Root Cause Analysis
+
+---
+
+# 🚨 Scenario
+
+A website goes down.
+
+Bad engineers say:
+
+```text
+Restart Everything
+```
+
+Good engineers ask:
+
+- Is DNS working?
+- Is networking working?
+- Is the server healthy?
+- Is the application healthy?
+- Is the database healthy?
+
+---
+
+# ✅ Solutionist Approach
+
+1. Observe
+2. Investigate
+3. Gather Evidence
+4. Identify Cause
+5. Fix Problem
+6. Prevent Recurrence
+
+---
+
+# 💡 Golden Rule
+
+Never assume.
+
+Always verify.
 
 ## Why Should You Care?
 
