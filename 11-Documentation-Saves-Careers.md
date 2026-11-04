@@ -1,4 +1,60 @@
-# Documentation Saves Careers
+# 📚 Documentation Saves Careers
+
+Good documentation preserves knowledge.
+
+---
+
+# 📦 Repositories
+
+A repository is a structured storage location.
+
+---
+
+## Source Repository
+
+Stores code.
+
+Examples:
+
+- GitHub
+- GitLab
+- Bitbucket
+
+Blueprint drawer analogy.
+
+---
+
+## Artifact Repository
+
+Stores built software.
+
+Warehouse analogy.
+
+---
+
+## Container Registry
+
+Stores Docker images.
+
+Pre-built room analogy.
+
+---
+
+## Infrastructure Repository
+
+Stores:
+
+- Terraform
+- CloudFormation
+- Kubernetes Manifests
+
+Construction instructions analogy.
+
+---
+
+# 💡 Solutionist Wisdom
+
+If knowledge only exists in someone's head, the organisation is vulnerable.
 
 ## Why Should You Care?
 
