@@ -1,4 +1,38 @@
-# Why Memorisation Creates Weak Engineers
+# 📚 Why Memorisation Creates Weak Engineers
+
+Knowing commands is useful.
+
+Understanding systems is valuable.
+
+---
+
+## Example
+
+Memoriser:
+
+```text
+I know the SSH command.
+```
+
+Engineer:
+
+```text
+I understand why SSH exists.
+```
+
+Solutionist:
+
+```text
+I understand secure communication.
+```
+
+---
+
+# 💡 Solutionist Wisdom
+
+Tools change.
+
+Concepts remain.
 
 ## Why Should You Care?
 
