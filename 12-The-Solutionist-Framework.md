@@ -1,4 +1,87 @@
-# The Solutionist Framework
+# 🏆 The Solutionist Framework
+
+---
+
+## Beginner
+
+Sees tools.
+
+```text
+Linux
+AWS
+Docker
+```
+
+---
+
+## Engineer
+
+Sees systems.
+
+```text
+Application
+Infrastructure
+Dependencies
+```
+
+---
+
+## Senior Engineer
+
+Sees platforms.
+
+```text
+Reliability
+Automation
+Scalability
+```
+
+---
+
+## Architect
+
+Sees business systems.
+
+```text
+People
+Technology
+Process
+Risk
+```
+
+---
+
+## Solutionist
+
+Sees value.
+
+```text
+Idea
+   ↓
+Build
+   ↓
+Deploy
+   ↓
+Customer
+```
+
+---
+
+# 🎯 Core Philosophy
+
+A Solutionist does not focus on tools.
+
+A Solutionist focuses on:
+
+- Value
+- Systems
+- Problems
+- Customers
+- Improvement
+
+Tools change.
+
+Problem solving remains valuable forever.
 
 ## Why Should You Care?
 
