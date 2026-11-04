@@ -1,89 +1,91 @@
-# What Is Cloud Computing?
+# ☁️ What Is Cloud Computing?
 
-## Why Should You Care?
-
-Cloud computing powers most modern technology.
-
-Every day you interact with cloud services:
-
-- Netflix
-- Spotify
-- YouTube
-- Microsoft 365
-- Amazon
-
-Understanding the cloud is essential for modern engineers.
+> [!IMPORTANT]
+> Cloud Computing allows organisations to rent computing resources instead of buying and maintaining their own hardware.
 
 ---
 
-## Simple Explanation
+## 🎯 Learning Objectives
 
-Cloud Computing is renting computing resources over the internet instead of owning physical hardware.
+By the end of this lesson you should understand:
 
-These resources can include:
-
-- Servers
-- Storage
-- Databases
-- Networking
-- Applications
+- What Cloud Computing is
+- Why the cloud exists
+- Benefits of cloud platforms
+- Major cloud providers
+- How EC2 fits into cloud computing
 
 ---
 
-## Real World Analogy
+# 🤔 Why Does The Cloud Exist?
 
-Imagine electricity.
+Traditionally, companies had to purchase their own infrastructure.
 
-You don't build your own power station.
-
-You simply connect to the grid and pay for usage.
-
-Cloud computing works similarly.
-
-Instead of buying servers:
+## Traditional Approach
 
 ```text
-Use Resources
+Buy Server
       ↓
-Pay For Usage
+Maintain Server
+      ↓
+Upgrade Server
+      ↓
+Replace Server
+```
+
+Expensive.
+
+Slow.
+
+Difficult to scale.
+
+---
+
+## Cloud Approach
+
+```text
+Rent Server
       ↓
 Scale When Needed
+      ↓
+Pay For Usage
 ```
+
+Faster.
+
+More flexible.
+
+More cost efficient.
 
 ---
 
-## Production Example
+# ☁️ Major Cloud Providers
+
+- AWS (Amazon Web Services)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Oracle Cloud
+
+---
+
+# 🖥️ EC2 Explained
+
+EC2 stands for:
 
 ```text
-Customer Visits Website
-           ↓
-AWS Receives Request
-           ↓
-Web Server Responds
-           ↓
-Database Provides Data
-           ↓
-User Receives Page
+Elastic Compute Cloud
 ```
 
----
+An EC2 instance is typically a Virtual Machine running inside AWS.
 
-## Key Takeaways
-
-✅ Cloud is renting resources.
-
-✅ You pay only for what you use.
-
-✅ Scaling becomes easier.
-
-✅ Cloud reduces hardware management.
+It behaves like a computer in the cloud.
 
 ---
 
-## 🧠 Solutionist Thinking
+# 💡 Solutionist Wisdom
 
-Ask yourself:
+Owning servers is not the goal.
 
-- Why would a company choose cloud?
-- Why might a company avoid cloud?
-- What problems does cloud solve?
+Delivering value is the goal.
+
+The cloud simply provides faster access to infrastructure.
