@@ -1,4 +1,46 @@
-# The Layers Of Troubleshooting
+# 🏗️ The Layers Of Troubleshooting
+
+When a service fails, investigate in layers.
+
+---
+
+Layer 1
+
+```text
+DNS
+```
+
+Layer 2
+
+```text
+Network
+```
+
+Layer 3
+
+```text
+Server
+```
+
+Layer 4
+
+```text
+Application
+```
+
+Layer 5
+
+```text
+Database
+```
+
+---
+
+# 💡 Solutionist Wisdom
+
+Follow a method.
+
+Do not guess.
 
 ## Why Should You Care?
 
