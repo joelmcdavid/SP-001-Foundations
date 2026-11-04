@@ -1,4 +1,4 @@
-# What Is Networking?
+# 🌐 What Is Networking?
 
 ## Why Should You Care?
 
@@ -18,6 +18,65 @@ Examples:
 - Servers
 - Phones
 - Routers
+
+
+
+## 🎯 Learning Objectives
+
+- Understand how computers communicate
+- Understand IP addresses
+- Understand DNS
+- Understand connectivity
+
+---
+
+# 📞 IP Address
+
+An IP Address is like a phone number for a computer.
+
+Example:
+
+```text
+54.123.45.67
+```
+
+Computers use IP addresses to communicate.
+
+---
+
+# 🗺️ DNS
+
+DNS translates names into IP addresses.
+
+Example:
+
+```text
+google.com
+      ↓
+IP Address
+```
+
+Without DNS we would need to remember IP addresses.
+
+---
+
+# 🍔 Restaurant Analogy
+
+A DNS server is like a receptionist.
+
+The receptionist knows where everything is and directs customers correctly.
+
+---
+
+# 💡 Solutionist Wisdom
+
+Most network issues involve:
+
+- DNS
+- Connectivity
+- Routing
+
+Always verify before making assumptions.
 
 ---
 
