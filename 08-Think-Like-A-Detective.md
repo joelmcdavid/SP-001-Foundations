@@ -1,4 +1,36 @@
-# Think Like A Detective
+# 🕵️ Think Like A Detective
+
+Every production issue leaves clues.
+
+---
+
+## Detective Questions
+
+Who reported it?
+
+What changed?
+
+When did it start?
+
+What systems are affected?
+
+Can the problem be reproduced?
+
+---
+
+## Server Example
+
+Website unavailable.
+
+Possible causes:
+
+- DNS
+- Application
+- Database
+- Networking
+- Deployment
+
+Investigate before acting.
 
 ## Why Should You Care?
 
