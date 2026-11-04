@@ -1,4 +1,65 @@
-# How To Think Like An Engineer
+# 🧠 How To Think Like An Engineer
+
+## 🎯 Learning Objectives
+
+- Understand systems thinking
+- Understand computers, servers and VMs
+- Learn to ask better questions
+
+---
+
+# 🖥️ Computer
+
+A computer contains:
+
+- CPU
+- RAM
+- Storage
+- Operating System
+
+---
+
+# ⚙️ Server
+
+A server is a computer that provides a service.
+
+```text
+Computer + Service = Server
+```
+
+---
+
+# 🏢 Virtual Machine
+
+A VM is a software-based computer running on another physical computer.
+
+---
+
+# 🏠 Apartment Analogy
+
+Physical Building = Physical Server
+
+Apartment = Virtual Machine
+
+Each apartment operates independently.
+
+---
+
+# 👨‍🔧 Engineer Thinking
+
+Beginners ask:
+
+> What is this?
+
+Engineers ask:
+
+> What does this do?
+
+> Who uses it?
+
+> What happens if it fails?
+
+
 
 ## Why Should You Care?
 
