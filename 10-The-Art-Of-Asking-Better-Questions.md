@@ -1,4 +1,26 @@
-# The Art Of Asking Better Questions
+# ❓ The Art Of Asking Better Questions
+
+Weak Question:
+
+```text
+The website is broken.
+```
+
+Better Question:
+
+```text
+Users cannot access the website.
+
+DNS resolves correctly.
+
+Server is online.
+
+Application logs show errors.
+
+What should I investigate next?
+```
+
+Evidence produces better answers.
 
 ## Why Should You Care?
 
