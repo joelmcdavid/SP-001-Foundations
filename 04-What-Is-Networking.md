@@ -137,3 +137,170 @@ Ask yourself:
 - How does data travel?
 - What happens if DNS fails?
 - What happens if routing fails?
+
+
+
+
+# 🌐 What Is Networking?
+
+## 🚪 Ports Explained
+
+Think of a server as a building.
+
+```text
+IP Address = Building
+
+Port = Door
+```
+
+Examples:
+
+```text
+22    SSH
+
+80    HTTP
+
+443   HTTPS
+
+8080  Development Web Apps
+
+3306  MySQL
+
+6379  Redis
+```
+
+### Visual
+
+```text
+Server
+
+ ├── Door 22   → SSH
+ ├── Door 80   → HTTP
+ ├── Door 443  → HTTPS
+ └── Door 3306 → MySQL
+```
+
+---
+
+## 🏓 Ping
+
+Used to answer:
+
+```text
+Can I reach the server?
+```
+
+Example:
+
+```bash
+ping google.com
+```
+
+Stop:
+
+```text
+CTRL + C
+```
+
+Think:
+
+```text
+"Hello, can you hear me?"
+```
+
+---
+
+## 📖 DNS
+
+DNS is the internet's phonebook.
+
+Instead of remembering:
+
+```text
+142.250.x.x
+```
+
+you remember:
+
+```text
+google.com
+```
+
+DNS performs the translation.
+
+### Quick Lookup
+
+```bash
+host google.com
+```
+
+### Deep Investigation
+
+```bash
+dig google.com
+```
+
+### Memory Hack
+
+```text
+host = Quick Answer
+
+dig = Full Investigation
+```
+
+---
+
+## 🚪 Telnet
+
+Tests whether a port is reachable.
+
+Example:
+
+```bash
+telnet SERVER_IP 22
+```
+
+Question:
+
+```text
+Can I reach SSH?
+```
+
+Results:
+
+```text
+Connects = Port Open
+
+Fails = Port Closed
+        Firewall
+        Security Group
+        Service Down
+```
+
+---
+
+## 📡 Netstat and SS
+
+Used to see:
+
+- Open ports
+- Listening services
+- Active connections
+
+Legacy:
+
+```bash
+netstat -tunlp
+```
+
+Modern:
+
+```bash
+ss -tunlp
+```
+
+Think:
+
+```text
+Which doors are currently open?
+```
