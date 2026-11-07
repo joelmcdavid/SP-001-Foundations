@@ -144,3 +144,144 @@ Why?
 Why?
 
 Until the true cause is revealed.
+
+
+# 🔎 Root Cause Analysis
+
+## 🚨 SSH Timeout Investigation
+
+Problem:
+
+```text
+SSH Timed Out
+```
+
+Most beginners think:
+
+```text
+SSH is broken.
+```
+
+Not necessarily.
+
+A timeout is a symptom.
+
+---
+
+## ✅ Root Cause Checklist
+
+```text
+No Public IP
+
+Wrong Security Group
+
+Missing Internet Gateway
+
+Wrong Route Table
+
+Bad Subnet
+
+Wrong Key Pair
+
+SSH Service Not Running
+
+Incorrect IP Address
+```
+
+---
+
+## ⚡ Real Example #1
+
+Instance launched without a Public IP.
+
+Instance received:
+
+```text
+172.31.x.x
+```
+
+Private IP only.
+
+Result:
+
+```text
+SSH Timeout
+```
+
+Root Cause:
+
+```text
+No Public IP
+```
+
+---
+
+## ⚡ Real Example #2
+
+VPC networking issue.
+
+Missing subnet or incorrect routing.
+
+Result:
+
+```text
+SSH Timeout
+```
+
+Root Cause:
+
+```text
+Network Configuration
+```
+
+---
+
+## 🎯 Lesson Learned
+
+The same symptom can be caused by many different problems.
+
+```text
+SSH Timeout ≠ SSH Problem
+```
+
+It may actually be:
+
+```text
+Network Problem
+
+Security Group Problem
+
+Routing Problem
+
+Public IP Problem
+```
+
+---
+
+## 🧠 Solutionist Wisdom
+
+Never troubleshoot the symptom.
+
+Trace the path.
+
+```text
+Laptop
+ ↓
+Internet
+ ↓
+Public IP
+ ↓
+Internet Gateway
+ ↓
+Route Table
+ ↓
+Subnet
+ ↓
+Security Group
+ ↓
+EC2
+ ↓
+SSH Service
+```
+
+Find the broken layer.
