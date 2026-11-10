@@ -38,41 +38,7 @@ even when nobody else knows what to do.
 
 ---
 
-# 📚 Curriculum
 
-## Foundations Of Technology
-
-✅ Lesson 01 - What Is DevOps?
-
-✅ Lesson 02 - What Is Cloud Computing?
-
-✅ Lesson 03 - What Is Linux?
-
-✅ Lesson 04 - What Is Networking?
-
----
-
-## Foundations Of Engineering Thinking
-
-✅ Lesson 05 - How To Think Like An Engineer
-
-✅ Lesson 06 - Root Cause Analysis
-
-✅ Lesson 07 - Why Memorisation Creates Weak Engineers
-
-✅ Lesson 08 - Think Like A Detective
-
----
-
-## Foundations Of Troubleshooting
-
-✅ Lesson 09 - The Layers Of Troubleshooting
-
-✅ Lesson 10 - The Art Of Asking Better Questions
-
-✅ Lesson 11 - Documentation Saves Careers
-
-✅ Lesson 12 - The Solutionist Framework
 
 ---
 
@@ -133,3 +99,27 @@ Teach.
 > An engineer solves problems.
 >
 > A Solutionist creates solutions and teaches others to do the same.
+
+---
+
+## Learning Outcomes
+
+By the end of this repository you will be able to:
+
+✅ Understand DevOps fundamentals
+
+✅ Think like an engineer
+
+✅ Perform basic root cause analysis
+
+✅ Ask better questions
+
+✅ Build strong learning habits
+
+✅ Develop a Solutionist mindset
+
+---
+
+## Next Stage
+
+➡️ SP-002 Production Thinking
