@@ -120,6 +120,12 @@ By the end of this repository you will be able to:
 
 ---
 
-## Next Stage
+---
 
-➡️ SP-002 Production Thinking
+## Continue Your Journey
+
+➡️ Next Stage: [SP-002 Production Thinking](https://github.com/joelmcdavid/SP-002-Production-Thinking)
+
+The foundations are only the beginning.
+
+Now learn how real organisations run technology in production.
